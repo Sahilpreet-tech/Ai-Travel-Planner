@@ -190,7 +190,7 @@ st.markdown(
     """
 <div class="hero">
     <video autoplay loop muted playsinline preload="auto">
-        <source src="https://cdn.coverr.co/videos/coverr-aerial-view-of-snowy-mountains-5175/1080p.mp4" type="video/mp4">
+        <source src="https://res.cloudinary.com/dobretz2v/video/upload/v1776785425/travel_xgn6gi.mp4" type="video/mp4">
     </video>
     <div class="hero-overlay"></div>
     <div class="hero-content">
